@@ -1,2 +1,2 @@
-# template-app-typescript-nextjs
-template for web app x typescript x next.js
+# template-app-ts-nextjs
+template for web app using typescript, next.js and react.
